@@ -30,3 +30,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local environment / credentials
+env
+env - Copy
+.env
+.env.*
